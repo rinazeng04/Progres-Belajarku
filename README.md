@@ -9,8 +9,9 @@ Pendalaman Materi 1: Memulai Dasar Pemrograman Untuk Menjadi Pengembang Software
 - Ujian akhir
 
 **21 Agustus 2023**  
--  Pendalaman Mater 2: Pengenalan ke Logika Pemrograman
+Pendalaman Mater 2: Pengenalan ke Logika Pemrograman
 -  Memahami apa itu logika pemrograman
+-  Gerbang logika
 -  Pengenalan dasar computational thinking
 -  Ujian Akhir
   
